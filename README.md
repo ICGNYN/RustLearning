@@ -1,1 +1,1 @@
-# RustLearning
+# Rustの勉強で作成したプログラム
